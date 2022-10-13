@@ -1,0 +1,1 @@
+Quando temos uma PA ou PG a complexidade é O(logN). 

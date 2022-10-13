@@ -1,0 +1,2 @@
+Os fatores são: tempo de execução, utilização de memória principal, utilização de disco, consumo de energia,
+ consumo de CPU, threads, etc..

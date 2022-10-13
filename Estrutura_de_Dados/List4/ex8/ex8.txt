@@ -1,0 +1,2 @@
+O gráfico abaixo ilustra a complexidade dos algoritmos, onde no eixo x temos a entrada de itens e no eixo y
+temos o tempo de execução. Ele serve para analisarmos a velocidade de um algoritmo. No dia a dia por ser utilizado para deixar o algoritmo(back-end) mais eficiente, ou seja, com uma velocidade maior.
